@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.parrot:libmux-3.14.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libmux-3.14.0.aar/9489b472d82891a0631cec9a25b58ce7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libmux-3.14.0.aar/9489b472d82891a0631cec9a25b58ce7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libmux/3.14.0/6a3295fcc2d525a5ea8f0a41e45fd8149a82faf4/libmux-3.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
